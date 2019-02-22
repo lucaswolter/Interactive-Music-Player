@@ -1,4 +1,3 @@
-# Interactive-Music-Player
 Created at IDEA Hacks Hackathon at UCLA -- January 2019
 Collaborated with Bryan Wong and William Chong
 
