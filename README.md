@@ -1,4 +1,4 @@
-# Interactive-Music-Player
+# Interactive Music Player
 #### January 2019
 
 Created at IDEA Hacks Hardware Hackathon in collaboration with Bryan Wong and William Chong.
